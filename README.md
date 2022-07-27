@@ -46,4 +46,7 @@ docker-compose exec web python manage.py collectstatic --no-input
 -Django
 -rest_framework
 -djoser
+-postgreSQL
+-nginx
+-docker
 ```
